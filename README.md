@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This project is in the Udacity Nanodegree Program "Deep Reinforcement Learning" and training an agent with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment to realize the controlling of a double-jointed arm in continuous state and action space to move to target localtions.
+This project is in the Udacity Nanodegree Program "Deep Reinforcement Learning" and training an agent with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment to realize the controlling of a double-jointed arm in continuous state and action space to move to target locations.
 
 ![Trained Agent][image1]
 
@@ -21,7 +21,7 @@ There are two separate versions of the Unity environment available:
 - The first version contains a single agent.
 - The second version contains 20 identical agents, each with its own copy of the environment. 
 
-Please see [here](https://github.com/udacity/deep-reinforcement-learning/blob/master/p2_continuous-control/README.md) to get more detail
+Please see [here](https://github.com/udacity/deep-reinforcement-learning/blob/master/p2_continuous-control/README.md) to get more details.
 
 ### Solving the Environment
 
